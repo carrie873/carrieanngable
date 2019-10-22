@@ -30,6 +30,9 @@ education:
   - course: Bachelors of Science
     institution: Central Michigan University
     year: 2018
+  - course: Global Competency Certificate
+    institution: Central Michigan University
+    year: 2018
     
 
 # Social/Academic Networking
