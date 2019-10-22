@@ -97,7 +97,7 @@ address = {street = "872 Nettle Drive", city = "Columbus", region = "OH", postco
 office_hours = ["Friday 11:00 to 12:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
