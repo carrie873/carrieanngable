@@ -90,14 +90,11 @@ phone = "906 322 7706"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "872 Nettle Drive", city = "Columbus", region = "OH", postcode = "43221", country = "United States", country_code = "US"}
+address = {street = "147 Townshend Hall", city = "Columbus", region = "OH", postcode = "43210", country = "United States", country_code = "US"}
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["Friday 11:00 to 12:00"]
-
-# Enter an optional link for booking appointments (e.g. calendly.com).
-#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
