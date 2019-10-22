@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: gable.86@buckeyemail.osu.edu
+  link: mailto:gable.86@buckeyemail.osu.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/CarrieAnnGable1
