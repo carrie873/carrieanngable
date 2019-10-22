@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Second Year Graduate Student
+role: PhD Student in Sociology
 
 # Organizations/Affiliations
 organizations:
 - name: Ohio State University
-  url: ""
+  url: https://sociology.osu.edu/people/gable.86
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include health insurance disparities and American Indian and Alaskan Native populations.
