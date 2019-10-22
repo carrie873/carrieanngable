@@ -94,7 +94,7 @@ address = {street = "147 Townshend Hall", city = "Columbus", region = "OH", post
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Friday 11:00 to 12:00"]
+office_hours = ["Friday 11:00AM to 12:00PM"]
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
