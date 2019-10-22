@@ -65,5 +65,7 @@ user_groups:
 - Visitors
 ---
 
-Carrie Ann Gable is a sociology PhD student at the Ohio State University studying health disparities and American Indian and Alaskan Native populations. She recieved her Bachelors of Science in Sociology and Psychology in 2018 at Central Michigan University. The projects that are currently in progress are health insurance literacy levels differences between policy purchasers and plan providers as well as tribal juristiction and health disparities.
+Carrie Ann Gable is a sociology PhD student at the Ohio State University studying health disparities and American Indian and Alaskan Native populations. She recieved her Bachelors of Science in Sociology and Psychology in 2018 at Central Michigan University.
+
+Her research focus is around health insurance literacy levels and coverage disparities, as well as provider and consumer relations in the insurance industry. Other areas of focus include disparities in health in American Indian and Alaskan Native populations and tribal politics. The projects that are currently in progress are health insurance literacy levels differences between policy purchasers and plan providers as well as tribal juristiction and health disparities.
 
